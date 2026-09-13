@@ -295,34 +295,6 @@
       "download": ""
     },
     {
-      "key": "旺旺资源网采集接口",
-      "name": "旺旺资源网采集接口",
-      "api": "https://cfkua.wokaotianshi.eu.org/https://api.wwzy.tv/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "status": true,
-      "type": 0,
-      "id": "22",
-      "isActive": true,
-      "resource": "",
-      "download": ""
-    },
-    {
-      "key": "155资源站采集接口",
-      "name": "155资源站采集接口",
-      "api": "https://cfkua.wokaotianshi.eu.org/https://155api.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "status": true,
-      "type": 0,
-      "id": "23",
-      "isActive": true,
-      "resource": "",
-      "download": ""
-    },
-    {
       "key": "OK资源采集网采集接口",
       "name": "OK资源采集网采集接口",
       "api": "https://cfkua.wokaotianshi.eu.org/http://api.okzyw.net/api.php/provide/vod/at/xml",
@@ -331,7 +303,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "24",
+      "id": "22",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -345,7 +317,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "25",
+      "id": "23",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -359,7 +331,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "26",
+      "id": "24",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -373,7 +345,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "27",
+      "id": "25",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -387,7 +359,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "28",
+      "id": "26",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -401,7 +373,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "29",
+      "id": "27",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -415,7 +387,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "30",
+      "id": "28",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -429,7 +401,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "31",
+      "id": "29",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -443,7 +415,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "32",
+      "id": "30",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -457,7 +429,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "33",
+      "id": "31",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -471,7 +443,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "34",
+      "id": "32",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -485,7 +457,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "35",
+      "id": "33",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -499,7 +471,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "36",
+      "id": "34",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -513,21 +485,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "37",
-      "isActive": true,
-      "resource": "",
-      "download": ""
-    },
-    {
-      "key": "森林资源网采集接口",
-      "name": "森林资源网采集接口",
-      "api": "https://cfkua.wokaotianshi.eu.org/https://slapibf.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "status": true,
-      "type": 0,
-      "id": "38",
+      "id": "35",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -541,7 +499,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "39",
+      "id": "36",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -555,7 +513,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "40",
+      "id": "37",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -569,7 +527,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "41",
+      "id": "38",
       "isActive": true,
       "resource": "",
       "download": ""
@@ -583,7 +541,7 @@
       "group": "切片",
       "status": true,
       "type": 0,
-      "id": "42",
+      "id": "39",
       "isActive": true,
       "resource": "",
       "download": ""

@@ -190,24 +190,6 @@
   },
   {
     "type": "",
-    "sourceName": "旺旺资源网采集接口",
-    "baseUrl": "",
-    "apiUrl": "https://cfkua.wokaotianshi.eu.org/https://api.wwzy.tv/api.php/provide/vod/at/xml",
-    "searchUrl": "",
-    "detailUrl": "",
-    "parserUrl": ""
-  },
-  {
-    "type": "",
-    "sourceName": "155资源站采集接口",
-    "baseUrl": "",
-    "apiUrl": "https://cfkua.wokaotianshi.eu.org/https://155api.com/api.php/provide/vod/at/xml",
-    "searchUrl": "",
-    "detailUrl": "",
-    "parserUrl": ""
-  },
-  {
-    "type": "",
     "sourceName": "OK资源采集网采集接口",
     "baseUrl": "",
     "apiUrl": "https://cfkua.wokaotianshi.eu.org/http://api.okzyw.net/api.php/provide/vod/at/xml",
@@ -328,15 +310,6 @@
     "sourceName": "非凡资源网采集接口",
     "baseUrl": "",
     "apiUrl": "https://cfkua.wokaotianshi.eu.org/http://api.ffzyapi.com/api.php/provide/vod/at/xml",
-    "searchUrl": "",
-    "detailUrl": "",
-    "parserUrl": ""
-  },
-  {
-    "type": "",
-    "sourceName": "森林资源网采集接口",
-    "baseUrl": "",
-    "apiUrl": "https://cfkua.wokaotianshi.eu.org/https://slapibf.com/api.php/provide/vod/at/xml",
     "searchUrl": "",
     "detailUrl": "",
     "parserUrl": ""

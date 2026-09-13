@@ -168,22 +168,6 @@
     "recordable": 0
   },
   {
-    "key": "旺旺资源网采集接口",
-    "name": "旺旺资源网采集接口",
-    "type": 1,
-    "api": "https://cfkua.wokaotianshi.eu.org/https://api.wwzy.tv/api.php/provide/vod/",
-    "searchable": 1,
-    "recordable": 0
-  },
-  {
-    "key": "155资源站采集接口",
-    "name": "155资源站采集接口",
-    "type": 1,
-    "api": "https://cfkua.wokaotianshi.eu.org/https://155api.com/api.php/provide/vod/",
-    "searchable": 1,
-    "recordable": 0
-  },
-  {
     "key": "OK资源采集网采集接口",
     "name": "OK资源采集网采集接口",
     "type": 1,
@@ -292,14 +276,6 @@
     "name": "非凡资源网采集接口",
     "type": 1,
     "api": "https://cfkua.wokaotianshi.eu.org/http://api.ffzyapi.com/api.php/provide/vod/",
-    "searchable": 1,
-    "recordable": 0
-  },
-  {
-    "key": "森林资源网采集接口",
-    "name": "森林资源网采集接口",
-    "type": 1,
-    "api": "https://cfkua.wokaotianshi.eu.org/https://slapibf.com/api.php/provide/vod/",
     "searchable": 1,
     "recordable": 0
   },
